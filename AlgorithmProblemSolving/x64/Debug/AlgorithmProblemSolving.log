@@ -1,0 +1,6 @@
+﻿  ch2.c
+c:\users\happy\documents\visual studio 2015\projects\algorithmproblemsolving\algorithmproblemsolving\ch2.c(199): warning C4020: 'puts': 실제 매개 변수가 너무 많습니다.
+c:\users\happy\documents\visual studio 2015\projects\algorithmproblemsolving\algorithmproblemsolving\ch2.c(230): warning C4020: 'puts': 실제 매개 변수가 너무 많습니다.
+c:\users\happy\documents\visual studio 2015\projects\algorithmproblemsolving\algorithmproblemsolving\ch2.c(79): warning C4715: 'choose': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  AlgorithmProblemSolving.vcxproj -> C:\Users\happy\documents\visual studio 2015\Projects\AlgorithmProblemSolving\x64\Debug\AlgorithmProblemSolving.exe
+  AlgorithmProblemSolving.vcxproj -> C:\Users\happy\documents\visual studio 2015\Projects\AlgorithmProblemSolving\x64\Debug\AlgorithmProblemSolving.pdb (Full PDB)
